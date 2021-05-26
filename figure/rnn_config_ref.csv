@@ -1,0 +1,4 @@
+# id,n_layers,hidden_size,dropout_rate
+0,3,50,0.2
+1,4,50,0.2
+2,5,50,0.2

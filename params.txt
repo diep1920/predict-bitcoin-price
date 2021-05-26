@@ -1,0 +1,4 @@
+pairs=XBTUSD
+interval=10
+no_of_records=33300
+name=bitcoin
